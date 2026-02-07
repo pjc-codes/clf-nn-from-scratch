@@ -5,6 +5,8 @@ The goal is pedagogical correctness and understanding of the core concepts, not 
 
 The model is trained on a 2D dataset and implements explicit forward and backward propagation, including manual gradient calculations for all parameters.
 
+An explanatory blog post can be found here : https://medium.com/@prathik.codes/building-a-softmax-classifier-neural-network-from-scratch-b47aaa32b0cb
+
 ---
 
 ## Files
